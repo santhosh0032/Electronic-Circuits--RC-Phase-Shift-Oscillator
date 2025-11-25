@@ -49,7 +49,7 @@ PC with LT Spice software
 
 	
 ## OUTPUTS:
-<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/15836faf-8feb-4703-a959-853341eee270" />
+<img width="1920" height="1200" alt="RC-Phase-Shift-Oscillator" src="https://github.com/user-attachments/assets/83ced966-e697-4d78-8545-97a6a785efd2" />
 
 
 ## RESULT:
